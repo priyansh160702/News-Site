@@ -1,0 +1,24 @@
+.articles-container {
+  display: grid;
+  grid-template-columns: repeat(3, auto);
+  grid-gap: 1rem;
+}
+
+.articles-container div {
+  display: inline-block;
+  font-size: 0.55rem;
+  text-transform: uppercase;
+  padding: 0.4rem 0.6rem;
+  border-radius: 15px;
+  margin-top: 00.5rem;
+  background-color: #635ad9;
+  color: white;
+}
+
+.article-heading {
+  font-size: 1.7rem;
+}
+
+.mt {
+  margin-top: 1rem;
+}

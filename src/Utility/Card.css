@@ -1,0 +1,9 @@
+.card {
+  background-color: white;
+  color: black;
+  padding: 1rem;
+}
+
+.card h3 {
+  margin: 8px 0;
+}

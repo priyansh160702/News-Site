@@ -1,0 +1,36 @@
+a {
+  padding: 0.7rem;
+}
+
+.nav-container {
+  background: #fff;
+  position: sticky;
+  top: 0;
+  z-index: 2;
+}
+
+/* Navbar */
+.nav-container .container {
+  display: flex;
+  margin-top: 15px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.socials {
+  margin-left: 14rem;
+}
+
+.main-links {
+  justify-content: end;
+}
+
+.main-links a {
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.main-links a:hover {
+  background: #f3f3f3;
+  color: #333;
+}

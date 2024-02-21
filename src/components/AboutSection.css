@@ -1,0 +1,10 @@
+.about-container .container {
+  margin-top: 1rem;
+  display: grid;
+  grid-template-columns: 5fr 2fr;
+  grid-gap: 1rem;
+}
+
+.about-container h1 {
+  font-size: 3rem;
+}
